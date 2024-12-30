@@ -1,0 +1,8 @@
+__pycache__/
+.vscode/
+.idea/
+*.pyc
+*.pyo
+env/
+*.h5
+*.log
