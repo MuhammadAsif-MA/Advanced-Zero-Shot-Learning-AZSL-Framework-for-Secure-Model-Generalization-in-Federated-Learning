@@ -16,7 +16,7 @@ This repository contains the implementation of the AZSL framework for federated 
 ## Installation
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/azsl-framework.git
+   git clone https: https://github.com/MuhammadAsif-MA/Advanced-Zero-Shot-Learning-AZSL-Framework-for-Secure-Model-Generalization-in-Federated-Learning.git
    ```
 2. Install the dependencies:
    ```
