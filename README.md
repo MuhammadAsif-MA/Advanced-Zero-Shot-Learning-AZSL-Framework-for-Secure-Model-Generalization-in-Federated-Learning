@@ -32,6 +32,19 @@ This repository contains the implementation of the AZSL framework for federated 
    ```
    python azsl_framework.py
    ```
+## Citation
 
+If you use this framework in your research, please cite the following paper:
+
+Link: [https://ieeexplore.ieee.org/document/10776968](https://ieeexplore.ieee.org/document/10776968)
+
+BibTeX:
+@article{asif2024advanced,
+  title={Advanced Zero-Shot Learning (AZSL) Framework for Secure Model Generalization in Federated Learning},
+  author={Asif, Muhammad and Naz, Surayya and Ali, Faheem and Salam, Abdu and Amin, Farhan and Ullah, Faizan and Alabrah, Amerah},
+  journal={IEEE Access},
+  year={2024},
+  publisher={IEEE}
+}
 ## License
 This project is licensed under the Creative Commons License.
