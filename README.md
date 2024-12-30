@@ -1,4 +1,4 @@
-# Advanced Zero-Shot Learning (AZSL) Framework
+# Advanced Zero-Shot Learning (AZSL) Framework for Secure Model Generalization in Federated Learning
 
 This repository contains the implementation of the AZSL framework for federated learning with Zero-Shot Learning (ZSL). The project includes synthetic data generation using WGAN-GP, global model training with EfficientNet-B7, and integration with TensorFlow Federated.
 
@@ -34,4 +34,4 @@ This repository contains the implementation of the AZSL framework for federated 
    ```
 
 ## License
-This project is licensed under the MIT License.
+This project is licensed under the Creative Commons License.
