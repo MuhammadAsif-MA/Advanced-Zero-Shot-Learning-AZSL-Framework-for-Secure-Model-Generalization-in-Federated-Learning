@@ -7,6 +7,9 @@ This repository contains the implementation of the AZSL framework for federated 
 - Zero-Shot Learning for unseen class classification.
 - Synthetic data generation with WGAN-GP.
 - Visualization of learning curves and generalization gap.
+<img src="images/Main.jpg" alt="Description" width="500" height="300">
+
+<img src="images/WGAN-GP.png" alt="Description" width="500" height="300">
 
 ## Requirements
 - Python 3.8+
@@ -22,7 +25,12 @@ This repository contains the implementation of the AZSL framework for federated 
    ```
    pip install -r requirements.txt
    ```
-
+## Results
+<img src="images/R1.png" alt="Description" width="500" height="300">
+<img src="images/R2.png" alt="Description" width="500" height="300">
+<img src="images/R3.png" alt="Description" width="500" height="300">
+<img src="images/R4.png" alt="Description" width="500" height="300">
+<img src="images/R5.png" alt="Description" width="500" height="300">
 ## Usage
 1. Navigate to the `scripts` directory:
    ```
