@@ -31,6 +31,8 @@ This repository contains the implementation of the AZSL framework for federated 
 <img src="images/R3.png" alt="Description" width="500" height="300">
 <img src="images/R4.png" alt="Description" width="500" height="300">
 <img src="images/R5.png" alt="Description" width="500" height="300">
+
+
 ## Usage
 1. Navigate to the `scripts` directory:
    ```
